@@ -1,0 +1,29 @@
+{
+  "name": "webtech_backend",
+  "version": "1.0.0",
+  "description": "Backend RESTAPI\u001b[D\u001b[D\u001b[D-\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[CPrüfungsleistung Backend REST-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mareike-schaeffer/WebTech_Backend.git"
+  },
+  "keywords": [
+    "restapi",
+    "backend"
+  ],
+  "author": "Mareike Schäffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mareike-schaeffer/WebTech_Backend/issues"
+  },
+  "homepage": "https://github.com/mareike-schaeffer/WebTech_Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  }
+}
